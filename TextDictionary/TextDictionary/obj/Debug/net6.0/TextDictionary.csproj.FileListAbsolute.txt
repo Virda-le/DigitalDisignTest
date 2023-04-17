@@ -1,0 +1,15 @@
+D:\CSharp\TextDictionary\TextDictionary\bin\Debug\net6.0\TextDictionary.exe
+D:\CSharp\TextDictionary\TextDictionary\bin\Debug\net6.0\TextDictionary.deps.json
+D:\CSharp\TextDictionary\TextDictionary\bin\Debug\net6.0\TextDictionary.runtimeconfig.json
+D:\CSharp\TextDictionary\TextDictionary\bin\Debug\net6.0\TextDictionary.dll
+D:\CSharp\TextDictionary\TextDictionary\bin\Debug\net6.0\TextDictionary.pdb
+D:\CSharp\TextDictionary\TextDictionary\obj\Debug\net6.0\TextDictionary.csproj.AssemblyReference.cache
+D:\CSharp\TextDictionary\TextDictionary\obj\Debug\net6.0\TextDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\TextDictionary\TextDictionary\obj\Debug\net6.0\TextDictionary.AssemblyInfoInputs.cache
+D:\CSharp\TextDictionary\TextDictionary\obj\Debug\net6.0\TextDictionary.AssemblyInfo.cs
+D:\CSharp\TextDictionary\TextDictionary\obj\Debug\net6.0\TextDictionary.csproj.CoreCompileInputs.cache
+D:\CSharp\TextDictionary\TextDictionary\obj\Debug\net6.0\TextDictionary.dll
+D:\CSharp\TextDictionary\TextDictionary\obj\Debug\net6.0\refint\TextDictionary.dll
+D:\CSharp\TextDictionary\TextDictionary\obj\Debug\net6.0\TextDictionary.pdb
+D:\CSharp\TextDictionary\TextDictionary\obj\Debug\net6.0\TextDictionary.genruntimeconfig.cache
+D:\CSharp\TextDictionary\TextDictionary\obj\Debug\net6.0\ref\TextDictionary.dll
